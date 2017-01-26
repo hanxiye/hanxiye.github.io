@@ -15,7 +15,7 @@ We use Python in some of our classes, and here is some of my work:
 
 ### C++ Project in Risk Management
 * [Portfolio Simulation for Risk Management](https://github.com/hanxiye/umich-quant)
-* This is a project supervised by our placement director [Peter Benson](https://lsa.umich.edu/math/people/staff/pbenson.html). More information about this project is available [here](https://pbenson.github.io/quant-projects/index.html).
+* This is a project supervised by our placement director [Peter Benson](https://lsa.umich.edu/math/people/staff/pbenson.html). More information about this project is available [here](https://pbenson.github.io/quant-projects/portfolio_modeling.html).
 
 ### About me
 * [Resume](https://hanxiye.github.io/resume_HanxiYe.pdf)
